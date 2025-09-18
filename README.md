@@ -1,0 +1,4 @@
+Requirements
+
+pytorch==1.5.0
+numpy>=1.18.2
