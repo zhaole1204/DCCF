@@ -1,4 +1,4 @@
-DCCF
+# DCCF
 
 Shudong Hou, Le Zhao, Yongchi Fan, Chengxiao Peng, Zhehui Yu, Deep Multi-View Clustering via Dual Contrastive Consistency Fusion
 
@@ -8,7 +8,6 @@ Deep multi-view clustering(DMVC), with its ability to effectively mine cross-vie
 
 Framework
 
-![Uploading image.png…]()
 
 
 Comparison with the State-of-the-Art
