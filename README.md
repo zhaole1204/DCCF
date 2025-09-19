@@ -19,6 +19,12 @@ The framework of DCCF. We use independent MLP for feature extraction of each vie
 <div align=center>TABLE V: Experimental results on Caltech datasets.</div>
 <div align=center><img src="./fig/Table5.png" width = "50%" height="50%"></div>
 
+## Requirements
+- Python 3.8
+- PyTorch 1.20.0
+- numpy
+- scikit-learn
+
 ## Training
 
 To train a new model, run:
