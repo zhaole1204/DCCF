@@ -14,10 +14,10 @@ The framework of DCCF. We use independent MLP for feature extraction of each vie
 <div align=center><img src="./fig/Table3.png" width = "50%" height="50%"></div>
 
 <div align=center>TABLE IV: Experimental results on Prokaryotic, Synthetic3d, CIFAR10, CIFAR100 datasets(-Indicates insufficient memory).</div>
-<div align=center><img src="./fig/table4.png" width = "50%" height="50%"></div>
+<div align=center><img src="./fig/Table4.png" width = "50%" height="50%"></div>
 
 <div align=center>TABLE V: Experimental results on Caltech datasets.</div>
-<div align=center><img src="./fig/table5.png" width = "50%" height="50%"></div>
+<div align=center><img src="./fig/Table5.png" width = "50%" height="50%"></div>
 
 ## Datasets
 The used datasets could be downloaded from baidu  (链接: https://pan.baidu.com/s/1wS88ZsinLUYgocVbEZp0fg 提取码: kt19 ).
