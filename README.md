@@ -10,7 +10,7 @@ Deep multi-view clustering(DMVC), with its ability to effectively mine cross-vie
 The framework of DCCF. We use independent MLP for feature extraction of each view. Then, the latent feature are concatenated and fed into fusion module to obtain the fused feature H. Concurrently, high-level features H<sup>v</sup> and semantic features Q<sup>v</sup> are learned for each individual view. We then employ a dual contrastive learning strategy to capture cross-view consistency information while dynamically guiding the multi-view feature fusion process using the learned semantic representations, thereby obtaining a more discriminative clustering structure.
 
 ## Comparison with the State-of-the-Art
-<div align=center>TABLE IV: Experimental results on MNIST-USPS, Hdigit, BDGP, Fashion datasets.</div>
+<div align=center>TABLE III: Experimental results on MNIST-USPS, Hdigit, BDGP, Fashion datasets.</div>
 <div align=center><img src="./fig/Table3.png" width = "50%" height="50%"></div>
 
 <div align=center>TABLE IV: Experimental results on Prokaryotic, Synthetic3d, CIFAR10, CIFAR100 datasets(-Indicates insufficient memory).</div>
