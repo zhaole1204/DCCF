@@ -22,6 +22,7 @@ The framework of DCCF. We use independent MLP for feature extraction of each vie
 ## Training
 
 To train a new model, run:
+
    python main.py
 
 ## Datasets
