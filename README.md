@@ -19,5 +19,10 @@ The framework of DCCF. We use independent MLP for feature extraction of each vie
 <div align=center>TABLE V: Experimental results on Caltech datasets.</div>
 <div align=center><img src="./fig/Table5.png" width = "50%" height="50%"></div>
 
+## Training
+
+To train a new model, run:
+   python main.py
+
 ## Datasets
 The used datasets could be downloaded from baidu  (链接: https://pan.baidu.com/s/1wS88ZsinLUYgocVbEZp0fg 提取码: kt19 ).
